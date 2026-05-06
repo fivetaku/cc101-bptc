@@ -4,8 +4,8 @@
     "url": "bptc.axwith.com",
     "description": "클로드코드 강의 학습 가이드",
     "course_version": "v6.0",
-    "version": "0.1.0-scaffold",
-    "lastUpdated": "2026-05-05"
+    "version": "0.2.0",
+    "lastUpdated": "2026-05-07"
   },
   "sections": [
     {
@@ -241,7 +241,7 @@
       "order": 16,
       "slug": "portfolio-fix",
       "title": "포트폴리오 수정",
-      "subtitle": "대화로 디자인 다듬기",
+      "subtitle": "getdesign.md로 디자인·구조 다시 다듬기",
       "duration_min": 20,
       "icon": "edit",
       "badge": null,
@@ -261,6 +261,96 @@
       "icon": "rocket",
       "badge": null,
       "file": "parts/part-3-10-vercel-deploy.md",
+      "type": "lecture"
+    },
+    {
+      "id": "part-4-01-plugin-install",
+      "tier": "part-4",
+      "part": 4,
+      "clip": 1,
+      "order": 18,
+      "slug": "plugin-install",
+      "title": "플러그인 설치",
+      "subtitle": "GPTaku 플러그인 생태계 진입",
+      "duration_min": 15,
+      "icon": "package",
+      "badge": null,
+      "file": "parts/part-4-01-plugin-install.md",
+      "type": "lecture"
+    },
+    {
+      "id": "part-4-02-docs-guide-vercel",
+      "tier": "part-4",
+      "part": 4,
+      "clip": 2,
+      "order": 19,
+      "slug": "docs-guide-vercel",
+      "title": "docs-guide — Vercel 깊이 이해",
+      "subtitle": "공식 문서 + 클로드코드 시너지",
+      "duration_min": 30,
+      "icon": "book-open",
+      "badge": null,
+      "file": "parts/part-4-02-docs-guide-vercel.md",
+      "type": "lecture"
+    },
+    {
+      "id": "part-4-03-kkirikkiri",
+      "tier": "part-4",
+      "part": 4,
+      "clip": 3,
+      "order": 20,
+      "slug": "kkirikkiri",
+      "title": "kkirikkiri — 자연어로 AI 팀",
+      "subtitle": "끼리끼리 스킬로 팀 자동 구성",
+      "duration_min": 25,
+      "icon": "users",
+      "badge": null,
+      "file": "parts/part-4-03-kkirikkiri.md",
+      "type": "lecture"
+    },
+    {
+      "id": "part-4-04-vibe-sunsang",
+      "tier": "part-4",
+      "part": 4,
+      "clip": 4,
+      "order": 21,
+      "slug": "vibe-sunsang",
+      "title": "vibe-sunsang — 바선생 AI 활용 점검",
+      "subtitle": "내 AI 활용을 코칭받기",
+      "duration_min": 20,
+      "icon": "sparkles",
+      "badge": null,
+      "file": "parts/part-4-04-vibe-sunsang.md",
+      "type": "lecture"
+    },
+    {
+      "id": "part-4-05-show-me-the-prd",
+      "tier": "part-4",
+      "part": 4,
+      "clip": 5,
+      "order": 22,
+      "slug": "show-me-the-prd",
+      "title": "show-me-the-prd — PRD 자동 생성",
+      "subtitle": "내 반복 업무 자동화 도구 PRD 작성",
+      "duration_min": 30,
+      "icon": "file-text",
+      "badge": null,
+      "file": "parts/part-4-05-show-me-the-prd.md",
+      "type": "lecture"
+    },
+    {
+      "id": "part-4-06-skillers-suda",
+      "tier": "part-4",
+      "part": 4,
+      "clip": 6,
+      "order": 23,
+      "slug": "skillers-suda",
+      "title": "skillers-suda — 4명 전문가와 스킬 설계",
+      "subtitle": "PRD 핵심 기능을 정교한 스킬로",
+      "duration_min": 30,
+      "icon": "tool",
+      "badge": null,
+      "file": "parts/part-4-06-skillers-suda.md",
       "type": "lecture"
     },
     {
@@ -342,6 +432,12 @@
       "description": "대화만으로 보고서·콘텐츠·웹사이트를 만드는 사람이 됩니다",
       "count": 10,
       "order": 3
+    },
+    "part-4": {
+      "label": "Part 4. 강화하기",
+      "description": "플러그인으로 클로드코드 능력을 확장하고 내 업무를 위한 스킬을 만듭니다",
+      "count": 6,
+      "order": 4
     },
     "reference": {
       "label": "학습 레퍼런스",
