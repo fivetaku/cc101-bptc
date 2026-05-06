@@ -126,7 +126,7 @@ which npm
 
 ### 5. 첫 실행과 인증
 
-마지막으로 WSL 홈 아래에 테스트 폴더를 만들고 Claude Code를 실행합니다. `/mnt/c` 아래가 아니라 `~/projects` 아래라는 점, 꼭 보세요.
+이제 WSL 홈 아래에 테스트 폴더를 만들고 Claude Code를 실행합니다. `/mnt/c` 아래가 아니라 `~/projects` 아래라는 점, 꼭 보세요.
 
 ```bash
 mkdir -p ~/projects/cc101-test
