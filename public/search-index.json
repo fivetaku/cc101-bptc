@@ -232,6 +232,7 @@
     "headings": [
       "이 클립에서 만드는 것",
       "핵심 개념",
+      "시작 전 — 자료 셋업",
       "진행 흐름",
       "결과물",
       "자주 막히는 포인트",
@@ -244,10 +245,11 @@
     "tier": "part-3",
     "tier_label": "Part 3. 체험하기",
     "title": "포트폴리오 수정",
-    "subtitle": "대화로 디자인 다듬기",
+    "subtitle": "getdesign.md로 디자인·구조 다시 다듬기",
     "headings": [
       "이 클립에서 만드는 것",
       "핵심 개념",
+      "시작 전 — 자료 셋업",
       "진행 흐름",
       "결과물",
       "자주 막히는 포인트",
@@ -270,6 +272,108 @@
       "다음 클립"
     ],
     "url": "/#part-3-10-vercel-deploy"
+  },
+  {
+    "id": "part-4-01-plugin-install",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "플러그인 설치",
+    "subtitle": "GPTaku 플러그인 생태계 진입",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-01-plugin-install"
+  },
+  {
+    "id": "part-4-02-docs-guide-vercel",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "docs-guide — Vercel 깊이 이해",
+    "subtitle": "공식 문서 + 클로드코드 시너지",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-02-docs-guide-vercel"
+  },
+  {
+    "id": "part-4-03-kkirikkiri",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "kkirikkiri — 자연어로 AI 팀",
+    "subtitle": "끼리끼리 스킬로 팀 자동 구성",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-03-kkirikkiri"
+  },
+  {
+    "id": "part-4-04-vibe-sunsang",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "vibe-sunsang — 바선생 AI 활용 점검",
+    "subtitle": "내 AI 활용을 코칭받기",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-04-vibe-sunsang"
+  },
+  {
+    "id": "part-4-05-show-me-the-prd",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "show-me-the-prd — PRD 자동 생성",
+    "subtitle": "내 반복 업무 자동화 도구 PRD 작성",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-05-show-me-the-prd"
+  },
+  {
+    "id": "part-4-06-skillers-suda",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "skillers-suda — 4명 전문가와 스킬 설계",
+    "subtitle": "PRD 핵심 기능을 정교한 스킬로",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-06-skillers-suda"
   },
   {
     "id": "ref-conversation-5steps",
