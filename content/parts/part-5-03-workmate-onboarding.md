@@ -1,12 +1,12 @@
 ---
-course_clip_ref: "Part 5 / Clip 2"
-result_path: "50-my-work/Part05-에이전트구축/실습21-개인화/"
-next_clip_id: "part-5-03-para-inbox"
+course_clip_ref: "Part 5 / Clip 3"
+result_path: "50-my-work/Part05-에이전트구축/실습22-개인화/"
+next_clip_id: "part-5-04-para-inbox"
 ---
 
-# Part 5 / Clip 2: workmate 받기와 온보딩
+# Part 5 / Clip 3: workmate 받기와 온보딩
 
-> 강의 영상: Part 5 / Clip 2 (~25분)
+> 강의 영상: Part 5 / Clip 3 (~25분)
 > 만드는 것: 개인화된 workmate 비서 + 첫 대화 기록
 
 ---
@@ -71,7 +71,7 @@ workmate는 처음엔 빈 사무실 같습니다. 책상도 있고 규칙도 있
 먼저 결과 기록용 폴더를 만듭니다.
 
 ```bash
-mkdir -p ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습21-개인화/
+mkdir -p ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습22-개인화/
 ```
 
 workmate를 받는 방법은 둘 중 하나입니다.
@@ -156,7 +156,7 @@ CLAUDE.md의 담당자 섹션을 보여 주세요. 방금 온보딩에서 입력
 받은 답변은 결과 폴더의 `첫-대화-기록.md`에 옮깁니다.
 
 ```text
-~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습21-개인화/첫-대화-기록.md 파일을 만들고, 방금 첫 대화 요약과 앞으로 맡길 반복 업무 후보 5개를 정리해 주세요.
+~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습22-개인화/첫-대화-기록.md 파일을 만들고, 방금 첫 대화 요약과 앞으로 맡길 반복 업무 후보 5개를 정리해 주세요.
 ```
 
 ### 5. 캡처 남기기
@@ -169,10 +169,10 @@ CLAUDE.md의 담당자 섹션을 보여 주세요. 방금 온보딩에서 입력
 
 ## 📦 결과물
 
-저장 위치는 `50-my-work/Part05-에이전트구축/실습21-개인화/`입니다.
+저장 위치는 `50-my-work/Part05-에이전트구축/실습22-개인화/`입니다.
 
 ```text
-실습21-개인화/
+실습22-개인화/
 ├── CLAUDE-담당자섹션-캡처.png
 ├── 첫-대화-기록.md
 └── README.md
@@ -210,6 +210,6 @@ CLAUDE.md의 담당자 섹션을 보여 주세요. 방금 온보딩에서 입력
 
 ## 🔗 다음 클립
 
-→ **[Part 5 / Clip 3: PARA와 `/inbox-sorter`](#part-5-03-para-inbox)** — 이제 개인화된 비서에게 받은 업무 파일을 던지고, `00-inbox/`에서 자동 분류를 시켜봅니다.
+→ **[Part 5 / Clip 3: PARA와 `/inbox-sorter`](#part-5-04-para-inbox)** — 이제 개인화된 비서에게 받은 업무 파일을 던지고, `00-inbox/`에서 자동 분류를 시켜봅니다.
 
 오늘은 비서에게 여러분을 소개했습니다. 다음은 그 비서에게 책상 위 파일을 정리시키는 장면입니다. 사람 비서에게 처음 맡기는 일도 보통 파일 정리부터잖아요?

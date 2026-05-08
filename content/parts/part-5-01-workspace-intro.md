@@ -1,7 +1,7 @@
 ---
 course_clip_ref: "Part 5 / Clip 1"
 result_path: "50-my-work/Part05-에이전트구축/실습20-워크스페이스이론/"
-next_clip_id: "part-5-02-workmate-onboarding"
+next_clip_id: "part-5-02-git-teacher"
 ---
 
 # Part 5 / Clip 1: 워크스페이스는 비서의 영혼
@@ -166,6 +166,6 @@ Part 3, Part 4에서 했던 작업과 Part 5에서 만들 workmate 라인을 비
 
 ## 🔗 다음 클립
 
-→ **[Part 5 / Clip 2: workmate 받기와 온보딩](#part-5-02-workmate-onboarding)** — 이제 진짜 workmate 워크스페이스를 `~/Desktop/workmate/`에 놓고 `/onboarding`으로 여러분 비서로 바꿉니다.
+→ **[Part 5 / Clip 2: workmate 받기와 온보딩](#part-5-02-git-teacher)** — 이제 진짜 workmate 워크스페이스를 `~/Desktop/workmate/`에 놓고 `/onboarding`으로 여러분 비서로 바꿉니다.
 
 오늘은 비서의 설계도를 봤습니다. 다음 클립에서는 빈 담당자 칸이 여러분 이름과 업무로 채워지는 순간을 보게 됩니다. 여기서부터 조금 재미있어져요.

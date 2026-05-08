@@ -1,12 +1,12 @@
 ---
-course_clip_ref: "Part 5 / Clip 3"
-result_path: "50-my-work/Part05-에이전트구축/실습22-PARA정리/"
-next_clip_id: "part-5-04-memory-skills"
+course_clip_ref: "Part 5 / Clip 4"
+result_path: "50-my-work/Part05-에이전트구축/실습23-PARA정리/"
+next_clip_id: "part-5-05-memory-skills"
 ---
 
-# Part 5 / Clip 3: PARA와 인박스 자동 정리
+# Part 5 / Clip 4: PARA와 인박스 자동 정리
 
-> 강의 영상: Part 5 / Clip 3 (~25분)
+> 강의 영상: Part 5 / Clip 4 (~25분)
 > 만드는 것: 내 업무 파일이 정리된 workmate 폴더 + 분류 결과 README
 
 ---
@@ -59,7 +59,7 @@ workmate는 PARA를 7개 폴더로 씁니다.
 먼저 결과 기록용 폴더를 만듭니다.
 
 ```bash
-mkdir -p ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습22-PARA정리/
+mkdir -p ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습23-PARA정리/
 ```
 
 그 다음 workmate의 inbox를 준비합니다.
@@ -137,7 +137,7 @@ claude
 마지막은 기록입니다. 파일이 어디로 갔는지 남겨야 나중에 찾을 수 있어요.
 
 ```text
-방금 /inbox-sorter로 정리한 결과를 ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습22-PARA정리/README.md에 정리해 주세요. 원래 파일명, 이동한 폴더, 분류 이유, 다음에 할 일을 포함해 주세요.
+방금 /inbox-sorter로 정리한 결과를 ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습23-PARA정리/README.md에 정리해 주세요. 원래 파일명, 이동한 폴더, 분류 이유, 다음에 할 일을 포함해 주세요.
 ```
 
 저는 이 README를 "정리 영수증"이라고 부릅니다. 파일이 사라진 게 아니라 제자리를 찾았다는 증거니까요.
@@ -146,10 +146,10 @@ claude
 
 ## 📦 결과물
 
-저장 위치는 `50-my-work/Part05-에이전트구축/실습22-PARA정리/`입니다.
+저장 위치는 `50-my-work/Part05-에이전트구축/실습23-PARA정리/`입니다.
 
 ```text
-실습22-PARA정리/
+실습23-PARA정리/
 ├── PARA-정리후-폴더구조.png
 └── README.md
 ```
@@ -191,6 +191,6 @@ workmate/
 
 ## 🔗 다음 클립
 
-→ **[Part 5 / Clip 4: 메모리와 스킬 자가성장](#part-5-04-memory-skills)** — 이제 정리된 파일로 반복 업무를 세 번 해보고, workmate가 스킬 후보를 잡아내는 장면을 봅니다.
+→ **[Part 5 / Clip 4: 메모리와 스킬 자가성장](#part-5-05-memory-skills)** — 이제 정리된 파일로 반복 업무를 세 번 해보고, workmate가 스킬 후보를 잡아내는 장면을 봅니다.
 
 오늘은 비서에게 책상 정리를 맡겼습니다. 다음은 더 재미있어요. 같은 일을 반복했더니 비서가 "이거 매번 하시네요. 스킬로 만들까요?"라고 물어보는 순간입니다.

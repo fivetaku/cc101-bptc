@@ -1,12 +1,12 @@
 ---
-course_clip_ref: "Part 5 / Clip 5"
-result_path: "50-my-work/Part05-에이전트구축/실습24-아키타입매핑/"
-next_clip_id: "part-5-06-workspace-builder"
+course_clip_ref: "Part 5 / Clip 6"
+result_path: "50-my-work/Part05-에이전트구축/실습25-아키타입매핑/"
+next_clip_id: "part-5-07-workspace-builder"
 ---
 
-# Part 5 / Clip 5: 5가지 에이전트 아키타입 매핑
+# Part 5 / Clip 6: 5가지 에이전트 아키타입 매핑
 
-> 강의 영상: Part 5 / Clip 5 (~20분)
+> 강의 영상: Part 5 / Clip 6 (~20분)
 > 만드는 것: 내 업무 → 에이전트 아키타입 매핑 노트
 
 ---
@@ -67,18 +67,18 @@ AI 비서를 만들 때 제일 흔한 실수가 "다 하는 비서"를 만들려
 ### 한 줄 시작 — 폴더 준비
 
 ```text
-~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습24-아키타입매핑/ 폴더를 만들고, 그 작업 폴더로 진입해 주세요. 셋업이 끝나면 위치를 한 줄로 보고만 해 주세요. 아직 파일은 만들지 마세요.
+~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습25-아키타입매핑/ 폴더를 만들고, 그 작업 폴더로 진입해 주세요. 셋업이 끝나면 위치를 한 줄로 보고만 해 주세요. 아직 파일은 만들지 마세요.
 ```
 
 → 클로드코드가 자동으로:
 
-1. `mkdir -p 50-my-work/Part05-에이전트구축/실습24-아키타입매핑/` — 작업 폴더 생성
+1. `mkdir -p 50-my-work/Part05-에이전트구축/실습25-아키타입매핑/` — 작업 폴더 생성
 2. 작업 폴더 진입 (`cd`)
 3. 현재 위치 확인
 
 ### 셋업 완료 체크
 
-작업 폴더 위치가 `실습24-아키타입매핑/`이면 준비 완료입니다. 오늘은 여기에 `my-archetype.md`를 만듭니다.
+작업 폴더 위치가 `실습25-아키타입매핑/`이면 준비 완료입니다. 오늘은 여기에 `my-archetype.md`를 만듭니다.
 
 ---
 
@@ -138,10 +138,10 @@ AI 비서를 만들 때 제일 흔한 실수가 "다 하는 비서"를 만들려
 
 ## 📦 결과물
 
-저장 위치는 `50-my-work/Part05-에이전트구축/실습24-아키타입매핑/`입니다.
+저장 위치는 `50-my-work/Part05-에이전트구축/실습25-아키타입매핑/`입니다.
 
 ```text
-실습24-아키타입매핑/
+실습25-아키타입매핑/
 └── my-archetype.md
 ```
 
@@ -179,6 +179,6 @@ AI 비서를 만들 때 제일 흔한 실수가 "다 하는 비서"를 만들려
 
 ## 🔗 다음 클립
 
-→ **[Part 5 / Clip 6: Workspace Builder로 내 에이전트 만들기](#part-5-06-workspace-builder)** — 이제 아키타입 노트를 들고 Workspace Builder와 대화합니다.
+→ **[Part 5 / Clip 6: Workspace Builder로 내 에이전트 만들기](#part-5-07-workspace-builder)** — 이제 아키타입 노트를 들고 Workspace Builder와 대화합니다.
 
 다음 클립에서는 `워크스페이스 만들어줘` 한 문장으로 시작해서, Phase 0부터 Phase 7까지 지나며 내 맞춤 에이전트 워크스페이스를 실제 폴더로 생성합니다.

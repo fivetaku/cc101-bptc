@@ -159,8 +159,20 @@
   "hotPaths": [
     {
       "path": "content/sections.json",
-      "accessCount": 4,
-      "lastAccessed": 1778109966674,
+      "accessCount": 7,
+      "lastAccessed": 1778239141597,
+      "type": "file"
+    },
+    {
+      "path": "content/parts/part-5-02-git-teacher.md",
+      "accessCount": 1,
+      "lastAccessed": 1778239087253,
+      "type": "file"
+    },
+    {
+      "path": "HANDOFF.md",
+      "accessCount": 1,
+      "lastAccessed": 1778239219172,
       "type": "file"
     }
   ],

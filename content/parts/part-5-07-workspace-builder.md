@@ -1,12 +1,12 @@
 ---
-course_clip_ref: "Part 5 / Clip 6"
-result_path: "50-my-work/Part05-에이전트구축/실습25-내에이전트/"
-next_clip_id: "part-5-07-agent-council"
+course_clip_ref: "Part 5 / Clip 7"
+result_path: "50-my-work/Part05-에이전트구축/실습26-내에이전트/"
+next_clip_id: "part-5-08-agent-council"
 ---
 
-# Part 5 / Clip 6: Workspace Builder로 내 에이전트 만들기
+# Part 5 / Clip 7: Workspace Builder로 내 에이전트 만들기
 
-> 강의 영상: Part 5 / Clip 6 (~35분)
+> 강의 영상: Part 5 / Clip 7 (~35분)
 > 만드는 것: 본인 맞춤 에이전트 워크스페이스 1개
 
 ---
@@ -95,7 +95,7 @@ Claude Code가 열리면 아래처럼 시작합니다.
 생성되는 에이전트는 `~/Desktop/Workspace_Builder/90-output/` 아래에 생깁니다. 강의 실습 기록은 따로 남겨야 하니, `bptc-cc` 안에도 기록 폴더를 만듭니다.
 
 ```text
-~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습25-내에이전트/ 폴더를 만들고, 이번에 만들 에이전트 이름, 선택한 아키타입, 생성 위치, 인수인계 내용을 README.md로 정리할 준비를 해 주세요.
+~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습26-내에이전트/ 폴더를 만들고, 이번에 만들 에이전트 이름, 선택한 아키타입, 생성 위치, 인수인계 내용을 README.md로 정리할 준비를 해 주세요.
 ```
 
 ### 셋업 완료 체크
@@ -103,7 +103,7 @@ Claude Code가 열리면 아래처럼 시작합니다.
 준비가 끝나면 두 위치가 있어야 합니다.
 
 - `~/Desktop/Workspace_Builder/` — Workspace Builder를 실행하는 곳
-- `~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습25-내에이전트/` — 강의 기록을 남기는 곳
+- `~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습26-내에이전트/` — 강의 기록을 남기는 곳
 
 ---
 
@@ -193,7 +193,7 @@ claude
 마지막은 강의 기록입니다. 생성된 워크스페이스 자체는 `90-output`에 있고, 실습 기록은 `bptc-cc`에 남깁니다.
 
 ```text
-이번 실습 내용을 ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습25-내에이전트/README.md로 정리해 주세요. 포함할 내용은 에이전트 이름, 생성 위치, 선택한 아키타입, 핵심 커맨드, 첫 실행 방법, 다음 Clip 7에서 Council로 검토할 질문입니다.
+이번 실습 내용을 ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습26-내에이전트/README.md로 정리해 주세요. 포함할 내용은 에이전트 이름, 생성 위치, 선택한 아키타입, 핵심 커맨드, 첫 실행 방법, 다음 Clip 7에서 Council로 검토할 질문입니다.
 ```
 
 ---
@@ -212,7 +212,7 @@ claude
 ```
 
 ```text
-50-my-work/Part05-에이전트구축/실습25-내에이전트/
+50-my-work/Part05-에이전트구축/실습26-내에이전트/
 └── README.md
 ```
 
@@ -249,6 +249,6 @@ claude
 
 ## 🔗 다음 클립
 
-→ **[Part 5 / Clip 7: Agent Council로 설계 검증](#part-5-07-agent-council)** — 만든 에이전트를 바로 믿기 전에, Codex와 Gemini까지 불러 설계를 한 번 더 봅니다.
+→ **[Part 5 / Clip 7: Agent Council로 설계 검증](#part-5-08-agent-council)** — 만든 에이전트를 바로 믿기 전에, Codex와 Gemini까지 불러 설계를 한 번 더 봅니다.
 
 다음 클립의 포인트는 객관성입니다. 내가 만든 에이전트가 너무 크지 않은지, 빠진 커맨드는 없는지, 실제 업무에 쓸 수 있는지 다관점으로 검토합니다.

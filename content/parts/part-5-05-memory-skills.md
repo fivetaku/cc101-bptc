@@ -1,12 +1,12 @@
 ---
-course_clip_ref: "Part 5 / Clip 4"
-result_path: "50-my-work/Part05-에이전트구축/실습23-자가성장/"
-next_clip_id: "part-5-05-archetypes"
+course_clip_ref: "Part 5 / Clip 5"
+result_path: "50-my-work/Part05-에이전트구축/실습24-자가성장/"
+next_clip_id: "part-5-06-archetypes"
 ---
 
-# Part 5 / Clip 4: 메모리와 스킬 자가성장
+# Part 5 / Clip 5: 메모리와 스킬 자가성장
 
-> 강의 영상: Part 5 / Clip 4 (~28분)
+> 강의 영상: Part 5 / Clip 5 (~28분)
 > 만드는 것: 반복 업무에서 승격된 workmate 스킬 1개
 
 ---
@@ -75,7 +75,7 @@ Part 4 / Clip 6에서 여러분은 `skillers-suda`로 직접 스킬을 설계했
 먼저 결과 기록용 폴더를 만듭니다.
 
 ```bash
-mkdir -p ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습23-자가성장/
+mkdir -p ~/Desktop/bptc-cc/50-my-work/Part05-에이전트구축/실습24-자가성장/
 ```
 
 그 다음 workmate에서 Claude Code를 엽니다.
@@ -186,10 +186,10 @@ claude
 
 ## 📦 결과물
 
-저장 위치는 `50-my-work/Part05-에이전트구축/실습23-자가성장/`입니다.
+저장 위치는 `50-my-work/Part05-에이전트구축/실습24-자가성장/`입니다.
 
 ```text
-실습23-자가성장/
+실습24-자가성장/
 ├── 01-repeat-log.md
 ├── 02-skill-candidate.md
 └── README.md
@@ -228,6 +228,6 @@ claude
 
 ## 🔗 다음 클립
 
-→ **[Part 5 / Clip 5: 업무 원형과 비서 캐릭터](#part-5-05-archetypes)** — 이제 workmate가 어떤 직무 원형으로 확장될 수 있는지 보고, 내 업무에 맞는 비서 모습을 더 선명하게 잡습니다.
+→ **[Part 5 / Clip 5: 업무 원형과 비서 캐릭터](#part-5-06-archetypes)** — 이제 workmate가 어떤 직무 원형으로 확장될 수 있는지 보고, 내 업무에 맞는 비서 모습을 더 선명하게 잡습니다.
 
 오늘은 반복 업무가 스킬로 자라는 과정을 봤습니다. 다음 클립에서는 이 비서가 영업, HR, 재무, 운영, 기획 같은 다른 일로 어떻게 갈라질 수 있는지 살펴봅니다.
