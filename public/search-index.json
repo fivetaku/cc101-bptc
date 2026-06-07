@@ -294,7 +294,7 @@
     "id": "part-4-02-docs-guide-vercel",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "docs-guide — Vercel 깊이 이해",
+    "title": "docs-guide",
     "subtitle": "공식 문서 + 클로드코드 시너지",
     "headings": [
       "이 클립에서 만드는 것",
@@ -311,7 +311,7 @@
     "id": "part-4-03-kkirikkiri",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "kkirikkiri — Agent Teams 활용하기",
+    "title": "kkirikkiri",
     "subtitle": "Agent Teams 구성 → 역할별 작업 → 결과 정리",
     "headings": [
       "이 클립에서 만드는 것",
@@ -328,7 +328,7 @@
     "id": "part-4-04-vibe-sunsang",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "vibe-sunsang — 바선생 AI 활용 점검",
+    "title": "vibe-sunsang",
     "subtitle": "내 AI 활용을 코칭받기",
     "headings": [
       "이 클립에서 만드는 것",
@@ -345,7 +345,7 @@
     "id": "part-4-05-show-me-the-prd",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "show-me-the-prd — PRD 자동 생성",
+    "title": "show-me-the-prd",
     "subtitle": "내 반복 업무 자동화 도구 PRD 작성",
     "headings": [
       "이 클립에서 만드는 것",
@@ -362,7 +362,7 @@
     "id": "part-4-06-skillers-suda",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "skillers-suda — 4명 전문가와 스킬 설계",
+    "title": "skillers-suda",
     "subtitle": "PRD 핵심 기능을 정교한 스킬로",
     "headings": [
       "이 클립에서 만드는 것",
@@ -379,7 +379,7 @@
     "id": "part-4-07-git-teacher",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "바르다 깃선생 — git/GitHub 첫 발",
+    "title": "바르다 깃선생",
     "subtitle": "비개발자용 git 온보딩 + 첫 push까지",
     "headings": [
       "이 클립에서 만드는 것",
@@ -396,7 +396,7 @@
     "id": "part-5-01-workspace-intro",
     "tier": "part-5",
     "tier_label": "Part 5. 에이전트 구축",
-    "title": "워크스페이스 — 비서의 영혼",
+    "title": "워크스페이스",
     "subtitle": "에이전트 워크스페이스 5가지 구성 요소 (이론)",
     "headings": [
       "이 클립에서 만드는 것",
@@ -416,7 +416,7 @@
     "id": "part-5-02-workmate-onboarding",
     "tier": "part-5",
     "tier_label": "Part 5. 에이전트 구축",
-    "title": "workmate — /onboarding으로 비서 개인화",
+    "title": "workmate",
     "subtitle": "받아쓰는 비서를 내 것으로",
     "headings": [
       "이 클립에서 만드는 것",
@@ -499,7 +499,7 @@
     "id": "part-6-03-workspace-building",
     "tier": "part-6",
     "tier_label": "Part 6. OMC 심화",
-    "title": "워크스페이스 빌딩 — 폴더 구조",
+    "title": "워크스페이스 빌딩",
     "subtitle": "CLAUDE.md · rules · skills · settings · MCP를 채운다",
     "headings": [
       "이 클립에서 만드는 것",
@@ -531,7 +531,7 @@
     "id": "part-6-05-omc-install",
     "tier": "part-6",
     "tier_label": "Part 6. OMC 심화",
-    "title": "oh-my-claudecode 설치 · 첫 사용",
+    "title": "oh-my-claudecode 설치",
     "subtitle": "/omc-setup → /autopilot 한 줄로 시작",
     "headings": [
       "이 클립에서 만드는 것",
@@ -547,7 +547,7 @@
     "id": "part-6-06-omc-agents",
     "tier": "part-6",
     "tier_label": "Part 6. OMC 심화",
-    "title": "OMC 19개 에이전트 카탈로그",
+    "title": "OMC 19개 에이전트",
     "subtitle": "기획 · 실행 · 탐색 · 품질 · 보안 · 디자인 5개 그룹",
     "headings": [
       "이 클립에서 만드는 것",
@@ -600,7 +600,7 @@
     "id": "part-7-01-database-basics",
     "tier": "part-7",
     "tier_label": "Part 7. 데이터베이스 + API",
-    "title": "데이터베이스 기초 — 엑셀 너머로",
+    "title": "데이터베이스 기초",
     "subtitle": "엑셀 vs DB · PK/FK · ERD · 스키마 · 수파베이스",
     "headings": [
       "이 클립에서 만드는 것",
@@ -616,7 +616,7 @@
     "id": "part-7-02-public-api",
     "tier": "part-7",
     "tier_label": "Part 7. 데이터베이스 + API",
-    "title": "공공 API — 데이터 가져오기",
+    "title": "공공 API",
     "subtitle": "공공데이터포털 TourAPI + .env + 스크립트 분리",
     "headings": [
       "이 클립에서 만드는 것",
@@ -632,7 +632,7 @@
     "id": "part-7-03-search-api",
     "tier": "part-7",
     "tier_label": "Part 7. 데이터베이스 + API",
-    "title": "검색 API — 네이버 검색",
+    "title": "검색 API",
     "subtitle": "AskUserQuestion 2단 + HTML 뉴스레터",
     "headings": [
       "이 클립에서 만드는 것",
@@ -664,7 +664,7 @@
     "id": "part-8-01-llm-vectordb-rag",
     "tier": "part-8",
     "tier_label": "Part 8. RAG",
-    "title": "LLM·벡터DB·RAG 한 번에 이해하기",
+    "title": "LLM·벡터DB·RAG",
     "subtitle": "다음 단어 맞히기 → 임베딩 → 3차원 의미 지도 → 오픈북 시험 (이론)",
     "headings": [
       "이 클립에서 만드는 것",
@@ -720,7 +720,7 @@
     "id": "part-8-04-preprocessing",
     "tier": "part-8",
     "tier_label": "Part 8. RAG",
-    "title": "문서 전처리 — 청킹·임베딩의 핵심",
+    "title": "문서 전처리",
     "subtitle": "추출·청킹·맥락 + parent-child로 검색 품질 가르기",
     "headings": [
       "이 클립에서 만드는 것",
@@ -754,7 +754,7 @@
     "id": "part-8-06-tuning-mydocs",
     "tier": "part-8",
     "tier_label": "Part 8. RAG",
-    "title": "개선·튜닝 + 내 부서 문서로 내 챗봇",
+    "title": "개선·튜닝 + 내 챗봇",
     "subtitle": "TopK·Threshold 손잡이 + 내 문서로 내 업무 챗봇",
     "headings": [
       "이 클립에서 만드는 것",
