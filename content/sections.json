@@ -791,19 +791,19 @@
       "order": 5
     },
     "part-6": {
-      "label": "Part 6. OMC 심화 (BPTC 4회차)",
+      "label": "Part 6. OMC 심화",
       "description": "컨텍스트 관리 → 하네스 엔지니어링 → 워크스페이스 빌딩 → oh-my-claudecode 19개 에이전트 · 33개 커맨드 → 코드 리뷰까지",
       "count": 8,
       "order": 6
     },
     "part-7": {
-      "label": "Part 7. 데이터베이스 + API (BPTC 5회차)",
+      "label": "Part 7. 데이터베이스 + API",
       "description": "데이터베이스 기초 → 공공 API → 검색 API → 받아온 데이터로 DB 채우기",
       "count": 4,
       "order": 7
     },
     "part-8": {
-      "label": "Part 8. RAG (BPTC 6회차)",
+      "label": "Part 8. RAG",
       "description": "LLM·벡터DB·RAG 개념 → Gemini API → 바닥 RAG → 문서 전처리(핵심) → Dify 챗봇 → 내 부서 문서로 내 챗봇",
       "count": 6,
       "order": 8
