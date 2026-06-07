@@ -6,7 +6,7 @@ next_clip_id: "part-3-08-portfolio-plan"
 
 # Part 3 / Clip 7: 리모션 영상
 
-> 강의 영상: Part 3 / Ch 03 / Clip 7 (~20분)
+> 세션: Part 3 / Ch 03 / Clip 7 (~20분)
 > 만드는 것: 카드뉴스 HTML → 30초 내외 MP4
 
 ---

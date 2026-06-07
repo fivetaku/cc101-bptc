@@ -6,7 +6,7 @@ next_clip_id: "part-3-05-research"
 
 # Part 3 / Clip 4: 대시보드 만들기
 
-> 강의 영상: Part 3 / Ch 02 / Clip 4 (~25분)
+> 세션: Part 3 / Ch 02 / Clip 4 (~25분)
 > 만드는 것: CSV 8개 → 인터랙티브 HTML 대시보드
 
 ---

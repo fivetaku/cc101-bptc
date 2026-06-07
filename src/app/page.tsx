@@ -12,9 +12,9 @@ import { SectionBlock } from '@/components/SectionBlock'
 import { CodeBlock } from '@/components/CodeBlock'
 
 export const metadata: Metadata = {
-  title: 'CC101 — 클로드코드 가이드',
+  title: 'CC101 — BPTC 클로드코드 워크샵 활용 가이드',
   description:
-    '클로드코드 강의 수강생을 위한 한국어 학습 가이드. Part 1~3 17 클립 + 보조 레퍼런스.',
+    'BPTC 클로드코드 워크샵 참가자를 위한 한국어 활용 가이드. Part 1~5 32 클립.',
 }
 
 export default function Page() {

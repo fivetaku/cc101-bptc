@@ -6,7 +6,7 @@ next_clip_id: "part-3-10-vercel-deploy"
 
 # Part 3 / Clip 9: 포트폴리오 수정
 
-> 강의 영상: Part 3 / Ch 04 / Clip 9 (~20분)
+> 세션: Part 3 / Ch 04 / Clip 9 (~20분)
 > 만드는 것: getdesign.md 활용 → Clip 8의 1차 portfolio.html을 디자인·구조까지 개선
 
 ---

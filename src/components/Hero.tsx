@@ -189,12 +189,12 @@ export function Hero() {
         {/* Stats */}
         <div className="mt-12 flex flex-wrap items-center justify-center gap-8 text-sm text-zinc-400 dark:text-zinc-500">
           <div className="flex items-center gap-2">
-            <span className="text-brand-500 dark:text-brand-400">17</span>
+            <span className="text-brand-500 dark:text-brand-400">32</span>
             <span>클립</span>
           </div>
           <div className="flex items-center gap-2">
-            <span className="text-brand-500 dark:text-brand-400">이 강의</span>
-            <span>강의 기반</span>
+            <span className="text-brand-500 dark:text-brand-400">BPTC</span>
+            <span>워크샵 기반</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-brand-500 dark:text-brand-400">KO</span>

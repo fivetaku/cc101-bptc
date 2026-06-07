@@ -6,7 +6,7 @@ next_clip_id: "part-4-05-show-me-the-prd"
 
 # Part 4 / Clip 4: vibe-sunsang — 바선생 AI 활용 점검
 
-> 강의 영상: Part 4 / Clip 4 (~20분)
+> 세션: Part 4 / Clip 4 (~20분)
 > 만드는 것: 내 AI 대화 습관 코칭 기록 + 개선 포인트 README
 
 ---

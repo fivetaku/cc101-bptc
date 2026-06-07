@@ -14,8 +14,8 @@ export function Footer() {
 
           {/* Description */}
           <p className="max-w-md text-sm text-zinc-500">
-            이 강의 &quot;클로드코드 뽀개기&quot; 강의 수강생을 위한 한국어 학습 가이드입니다.
-            영상 보면서 옆에 켜두고 따라하세요.
+            BPTC 클로드코드 워크샵 참가자를 위한 한국어 활용 가이드입니다.
+            워크샵에서 만든 결과물·습관을 사내에서 계속 키워가요.
           </p>
 
           {/* Links */}
@@ -40,7 +40,7 @@ export function Footer() {
 
           {/* Copyright */}
           <p className="text-xs text-zinc-300 dark:text-zinc-700">
-            © {year} CC101 · 클로드코드 강의 학습 가이드
+            © {year} CC101 · BPTC 클로드코드 워크샵 활용 가이드
           </p>
         </div>
       </div>

@@ -6,7 +6,7 @@ next_clip_id: "part-3-06-cardnews"
 
 # Part 3 / Clip 5: 자료 리서치
 
-> 강의 영상: Part 3 / Ch 03 / Clip 5 (~20분)
+> 세션: Part 3 / Ch 03 / Clip 5 (~20분)
 > 만드는 것: 주제 한 줄 → 출처가 있는 리서치 Markdown
 
 ---

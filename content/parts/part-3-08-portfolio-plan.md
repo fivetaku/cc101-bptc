@@ -6,7 +6,7 @@ next_clip_id: "part-3-09-portfolio-fix"
 
 # Part 3 / Clip 8: 포트폴리오 기획
 
-> 강의 영상: Part 3 / Ch 04 / Clip 8 (~30분)
+> 세션: Part 3 / Ch 04 / Clip 8 (~30분)
 > 만드는 것: 리서치 자료 → 구성 기획서 + 1차 포트폴리오 HTML
 
 ---

@@ -6,7 +6,7 @@ next_clip_id: "ref-conversation-5steps"
 
 # Part 3 / Clip 10: Vercel 배포
 
-> 강의 영상: Part 3 / Ch 04 / Clip 10 (~20분)
+> 세션: Part 3 / Ch 04 / Clip 10 (~20분)
 > 만드는 것: 포트폴리오 HTML → 공개 웹 주소
 
 ---

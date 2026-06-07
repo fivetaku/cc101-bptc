@@ -6,7 +6,7 @@ next_clip_id: "part-3-04-dashboard"
 
 # Part 3 / Clip 3: 보고서 작성
 
-> 강의 영상: Part 3 / Ch 02 / Clip 3 (~25분)
+> 세션: Part 3 / Ch 02 / Clip 3 (~25분)
 > 만드는 것: 분석 결과 + 차트 → 임원 보고서 Markdown
 
 ---

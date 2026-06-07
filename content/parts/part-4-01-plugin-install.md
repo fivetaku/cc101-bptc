@@ -6,7 +6,7 @@ next_clip_id: "part-4-02-docs-guide-vercel"
 
 # Part 4 / Clip 1: 플러그인 설치
 
-> 강의 영상: Part 4 / Clip 1 (~15분)
+> 세션: Part 4 / Clip 1 (~15분)
 > 만드는 것: GPTaku 플러그인 설치 기록 + README
 
 ---

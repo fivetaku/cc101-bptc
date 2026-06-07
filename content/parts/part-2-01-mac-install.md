@@ -6,7 +6,7 @@ next_clip_id: "part-2-02-windows-install"
 
 # Part 2 / Clip 1: Mac 환경 설치
 
-> 강의 영상: Part 2 / Clip 1 (~20분)
+> 세션: Part 2 / Clip 1 (~20분)
 > 만드는 것: 안티그래비티 IDE에서 agent와 대화하며 Mac용 Claude Code 실행 환경 만들기
 
 ---

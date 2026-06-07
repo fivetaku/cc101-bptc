@@ -6,7 +6,7 @@ next_clip_id: "part-3-01-conversation-5steps"
 
 # Part 2 / Clip 4: 모드 + Alias
 
-> 강의 영상: Part 2 / Clip 4 (~10분)
+> 세션: Part 2 / Clip 4 (~10분)
 > 만드는 것: Claude Code 권한 모드 이해 + `cc`, `ccd`, `ccr` alias 설정
 
 ---

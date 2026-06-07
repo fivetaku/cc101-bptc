@@ -6,7 +6,7 @@ next_clip_id: "part-2-04-modes-alias"
 
 # Part 2 / Clip 3: 첫 실행
 
-> 강의 영상: Part 2 / Clip 3 (~10분)
+> 세션: Part 2 / Clip 3 (~10분)
 > 만드는 것: Claude Code 화면 이해 + 슬래시 명령 + 모델 전환 + `/powerup` + 다운로드 폴더 정리 첫 실습
 
 ---

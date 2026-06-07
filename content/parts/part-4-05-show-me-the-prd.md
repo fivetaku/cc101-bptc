@@ -6,7 +6,7 @@ next_clip_id: "part-4-06-skillers-suda"
 
 # Part 4 / Clip 5: show-me-the-prd — PRD 자동 생성
 
-> 강의 영상: Part 4 / Clip 5 (~30분)
+> 세션: Part 4 / Clip 5 (~30분)
 > 만드는 것: 한 문장 아이디어 → PRD, 데이터 모델, Phase, 프로젝트 스펙
 
 ---

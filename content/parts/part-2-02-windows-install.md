@@ -6,7 +6,7 @@ next_clip_id: "part-2-03-first-run"
 
 # Part 2 / Clip 2: Windows 환경 설치
 
-> 강의 영상: Part 2 / Clip 2 (~20분)
+> 세션: Part 2 / Clip 2 (~20분)
 > 만드는 것: Windows에서 WSL Ubuntu와 안티그래비티 agent를 활용해 Claude Code 실행 환경 만들기
 
 ---

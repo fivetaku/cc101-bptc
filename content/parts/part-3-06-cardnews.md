@@ -6,7 +6,7 @@ next_clip_id: "part-3-07-video"
 
 # Part 3 / Clip 6: 카드뉴스 만들기
 
-> 강의 영상: Part 3 / Ch 03 / Clip 6 (~25분)
+> 세션: Part 3 / Ch 03 / Clip 6 (~25분)
 > 만드는 것: 리서치 Markdown → 10장 HTML 카드뉴스
 
 ---

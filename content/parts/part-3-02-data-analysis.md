@@ -6,7 +6,7 @@ next_clip_id: "part-3-03-report"
 
 # Part 3 / Clip 2: 데이터 분석
 
-> 강의 영상: Part 3 / Ch 02 / Clip 2 (~25분)
+> 세션: Part 3 / Ch 02 / Clip 2 (~25분)
 > 만드는 것: CSV 8개 → 인사이트 + 차트 PNG
 
 ---

@@ -6,7 +6,7 @@ next_clip_id: "part-3-02-data-analysis"
 
 # Part 3 / Clip 1: 대화 패턴 5단계
 
-> 강의 영상: Part 3 / Ch 01 / Clip 1 (~10분)
+> 세션: Part 3 / Ch 01 / Clip 1 (~10분)
 > 만드는 것: Part 3 전체 실습에 쓰는 대화 흐름 이해
 
 ---

@@ -15,14 +15,14 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://bptc.axwith.com'),
-  title: 'CC101 — 클로드코드 가이드',
+  title: 'CC101 — BPTC 클로드코드 워크샵 활용 가이드',
   description:
-    '클로드코드 가이드 강의 수강생을 위한 한국어 학습 가이드. Part 1~3 17 클립 + 보조 레퍼런스. 영상 보면서 옆에 켜두고 따라하세요.',
-  keywords: 'Claude Code, 클로드코드, 한국어, 강의, 가이드, AI, Anthropic',
+    'BPTC 클로드코드 워크샵 참가자를 위한 한국어 활용 가이드. Part 1~5 32 클립 — 워크샵에서 만든 결과물·습관을 사내에서 계속 키우는 매뉴얼.',
+  keywords: 'Claude Code, 클로드코드, 한국어, BPTC, 워크샵, 가이드, AI, Anthropic',
   authors: [{ name: 'CC101' }],
   openGraph: {
-    title: 'CC101 — 클로드코드 가이드',
-    description: '클로드코드 강의 학습 가이드',
+    title: 'CC101 — BPTC 클로드코드 워크샵 활용 가이드',
+    description: 'BPTC 클로드코드 워크샵 활용 가이드',
     url: 'https://bptc.axwith.com',
     siteName: 'CC101',
     locale: 'ko_KR',
@@ -30,8 +30,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CC101 — 클로드코드 가이드',
-    description: '클로드코드 강의 학습 가이드',
+    title: 'CC101 — BPTC 클로드코드 워크샵 활용 가이드',
+    description: 'BPTC 클로드코드 워크샵 활용 가이드',
   },
 }
 

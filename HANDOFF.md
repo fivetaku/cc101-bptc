@@ -168,19 +168,23 @@ sed -i '' -e 's|Clip 8|Clip 9|g' -e 's|실습27|실습28|g' part-5-09-X.md
 
 ---
 
-## 7. 진행 현황 (2026-05-08 기준)
+## 7. 진행 현황 (2026-06-07 기준)
 
-### 작성 완료된 Part
+### 작성 완료된 Part (sections.json tiers 기준)
 
 | Part | 클립 수 | 주제 |
 |---|---|---|
 | Part 1. 인트로 | 3 | 오리엔테이션 / 강의 활용법 / cc101 & GPTaku 플러그인 |
 | Part 2. 시작하기 | 4 | Mac/Windows 설치 / 첫 실행 / 모드+Alias |
 | Part 3. 체험하기 | 10 | 대화 5단계 → 데이터 분석/보고서/대시보드/리서치/카드뉴스/영상/포트폴리오 기획·수정·Vercel 배포 |
-| Part 4. 강화하기 | 6 | 플러그인 설치 / docs-guide(Vercel) / kkirikkiri / vibe-sunsang / show-me-the-prd / skillers-suda |
-| Part 5. 에이전트 구축 | 9 | 워크스페이스 이론 / 바르다 깃선생 / workmate /onboarding / PARA / 메모리·자가성장 / 5 아키타입 / Workspace Builder ★ / Agent Council / 회고 |
+| Part 4. 강화하기 | 7 | 플러그인 설치 / docs-guide(Vercel) / kkirikkiri / vibe-sunsang / show-me-the-prd / skillers-suda / 바르다 깃선생 |
+| Part 5. 에이전트 구축 | 8 | 워크스페이스 이론 / workmate /onboarding / PARA / 메모리·자가성장 / 5 아키타입 / Workspace Builder ★ / Agent Council / 회고 |
+| Part 6. OMC 심화 (BPTC 4회차) | 9 | 컨텍스트 관리 → 하네스 → 워크스페이스 빌딩 → PRD+골잡이 → OMC 설치/에이전트/커맨드 → 코드 리뷰 → 디자인·DB |
+| **Part 8. RAG (BPTC 6회차)** | **6** | **LLM·벡터DB·RAG 개념 → Gemini API → 바닥 RAG → 문서 전처리(★) → Dify 챗봇 → 내 부서 문서로 내 챗봇** |
 
-총 **32 lecture clips + 4 reference**.
+총 **47 lecture clips + 4 reference**.
+
+> ⚠️ **Part 7은 비어 있습니다.** Part 7 = 데이터베이스(BPTC 5회차, 5/27)로 **신규 작성 예정**. Part 8(RAG)을 먼저 올리느라 번호가 6 → 8로 건너뜁니다. Part 8 클립의 `order`는 **50~55**로 잡아, Part 7이 나중에 **42~49**로 들어가도 정렬이 안 깨지게 비워뒀습니다. tier `order`도 Part 7=7, Part 8=8이라 Part 7을 추가하면 사이에 자동으로 끼워집니다.
 
 ### 회차 일정 (BPTC 14명, 2일 워크샵 기준)
 

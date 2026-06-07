@@ -311,8 +311,8 @@
     "id": "part-4-03-kkirikkiri",
     "tier": "part-4",
     "tier_label": "Part 4. 강화하기",
-    "title": "kkirikkiri — 자연어로 AI 팀",
-    "subtitle": "끼리끼리 스킬로 팀 자동 구성",
+    "title": "kkirikkiri — Agent Teams 활용하기",
+    "subtitle": "Agent Teams 구성 → 역할별 작업 → 결과 정리",
     "headings": [
       "이 클립에서 만드는 것",
       "핵심 개념",
@@ -374,6 +374,398 @@
       "다음 클립"
     ],
     "url": "/#part-4-06-skillers-suda"
+  },
+  {
+    "id": "part-4-07-git-teacher",
+    "tier": "part-4",
+    "tier_label": "Part 4. 강화하기",
+    "title": "바르다 깃선생 — git/GitHub 첫 발",
+    "subtitle": "비개발자용 git 온보딩 + 첫 push까지",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-4-07-git-teacher"
+  },
+  {
+    "id": "part-5-01-workspace-intro",
+    "tier": "part-5",
+    "tier_label": "Part 5. 에이전트 구축",
+    "title": "워크스페이스 — 비서의 영혼",
+    "subtitle": "에이전트 워크스페이스 5가지 구성 요소 (이론)",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "워크스페이스가 왜 비서의 영혼인가",
+      "workmate 5가지 구성 요소",
+      "Part 5에서 내가 만들 것",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-5-01-workspace-intro"
+  },
+  {
+    "id": "part-5-02-workmate-onboarding",
+    "tier": "part-5",
+    "tier_label": "Part 5. 에이전트 구축",
+    "title": "workmate — /onboarding으로 비서 개인화",
+    "subtitle": "받아쓰는 비서를 내 것으로",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-5-02-workmate-onboarding"
+  },
+  {
+    "id": "part-5-03-para-inbox",
+    "tier": "part-5",
+    "tier_label": "Part 5. 에이전트 구축",
+    "title": "PARA + /inbox-sorter",
+    "subtitle": "내 업무 파일을 자동 분류",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-5-03-para-inbox"
+  },
+  {
+    "id": "part-5-04-memory-skills",
+    "tier": "part-5",
+    "tier_label": "Part 5. 에이전트 구축",
+    "title": "메모리 + 자가성장",
+    "subtitle": "3-lane 메모리 → 반복 작업 → 정식 스킬",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-5-04-memory-skills"
+  },
+  {
+    "id": "part-6-01-context-management",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "컨텍스트 관리",
+    "subtitle": "/clear · /compact · /rewind 세 커맨드로 대화를 갈무리한다",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-01-context-management"
+  },
+  {
+    "id": "part-6-02-harness-engineering",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "하네스 엔지니어링",
+    "subtitle": "AI 작업을 둘러싸는 환경 — 한 번 잘 적어두면 매 세션 자동으로 쓰인다",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-02-harness-engineering"
+  },
+  {
+    "id": "part-6-03-workspace-building",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "워크스페이스 빌딩 — 폴더 구조",
+    "subtitle": "CLAUDE.md · rules · skills · settings · MCP를 채운다",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-03-workspace-building"
+  },
+  {
+    "id": "part-6-04-prd-goaljaby",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "PRD + 골잡이로 자동 빌딩",
+    "subtitle": "/show-me-the-prd → /goaljaby → /goal 흐름 그대로",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-04-prd-goaljaby"
+  },
+  {
+    "id": "part-6-05-omc-install",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "oh-my-claudecode 설치 · 첫 사용",
+    "subtitle": "/omc-setup → /autopilot 한 줄로 시작",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-05-omc-install"
+  },
+  {
+    "id": "part-6-06-omc-agents",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "OMC 19개 에이전트 카탈로그",
+    "subtitle": "기획 · 실행 · 탐색 · 품질 · 보안 · 디자인 5개 그룹",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-06-omc-agents"
+  },
+  {
+    "id": "part-6-07-omc-commands",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "OMC 33개 슬래시 커맨드",
+    "subtitle": "실행 모드 · 기획 · AI 협업 · 코드 품질 · 세팅 · 스킬",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-07-omc-commands"
+  },
+  {
+    "id": "part-6-08-code-review",
+    "tier": "part-6",
+    "tier_label": "Part 6. OMC 심화 (BPTC 4회차)",
+    "title": "코드 리뷰 가이드",
+    "subtitle": "자연어 한 줄로 code-reviewer · security-reviewer 호출",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "평소 작업",
+      "PR 단위",
+      "보안 자료 다룰 때",
+      "결정적인 PR",
+      "메모",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-6-08-code-review"
+  },
+  {
+    "id": "part-7-01-database-basics",
+    "tier": "part-7",
+    "tier_label": "Part 7. 데이터베이스 + API (BPTC 5회차)",
+    "title": "데이터베이스 기초 — 엑셀 너머로",
+    "subtitle": "엑셀 vs DB · PK/FK · ERD · 스키마 · 수파베이스",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-7-01-database-basics"
+  },
+  {
+    "id": "part-7-02-public-api",
+    "tier": "part-7",
+    "tier_label": "Part 7. 데이터베이스 + API (BPTC 5회차)",
+    "title": "공공 API — 데이터 가져오기",
+    "subtitle": "공공데이터포털 TourAPI + .env + 스크립트 분리",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-7-02-public-api"
+  },
+  {
+    "id": "part-7-03-search-api",
+    "tier": "part-7",
+    "tier_label": "Part 7. 데이터베이스 + API (BPTC 5회차)",
+    "title": "검색 API — 네이버 검색",
+    "subtitle": "AskUserQuestion 2단 + HTML 뉴스레터",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-7-03-search-api"
+  },
+  {
+    "id": "part-7-04-api-to-db",
+    "tier": "part-7",
+    "tier_label": "Part 7. 데이터베이스 + API (BPTC 5회차)",
+    "title": "공공 API → 데이터베이스",
+    "subtitle": "받아온 데이터를 DB에 적재 — Extract·Transform·Load",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-7-04-api-to-db"
+  },
+  {
+    "id": "part-8-01-llm-vectordb-rag",
+    "tier": "part-8",
+    "tier_label": "Part 8. RAG (BPTC 6회차)",
+    "title": "LLM·벡터DB·RAG 한 번에 이해하기",
+    "subtitle": "다음 단어 맞히기 → 임베딩 → 3차원 의미 지도 → 오픈북 시험 (이론)",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "LLM이 못 하는 것 (우리 회사 자료)",
+      "임베딩 = 글을 좌표로",
+      "벡터DB = 의미 지도",
+      "RAG = 오픈북 시험",
+      "전처리가 왜 핵심인가",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-8-01-llm-vectordb-rag"
+  },
+  {
+    "id": "part-8-02-gemini-api",
+    "tier": "part-8",
+    "tier_label": "Part 8. RAG (BPTC 6회차)",
+    "title": "Gemini API 첫 체험",
+    "subtitle": "코드에서 AI를 직접 호출 — hello_gemini.py",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-8-02-gemini-api"
+  },
+  {
+    "id": "part-8-03-bottom-rag",
+    "tier": "part-8",
+    "tier_label": "Part 8. RAG (BPTC 6회차)",
+    "title": "바닥 RAG 직접 만들기",
+    "subtitle": "Chroma + LangChain으로 보고서에 질의 → 출처까지",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-8-03-bottom-rag"
+  },
+  {
+    "id": "part-8-04-preprocessing",
+    "tier": "part-8",
+    "tier_label": "Part 8. RAG (BPTC 6회차)",
+    "title": "문서 전처리 — 청킹·임베딩의 핵심",
+    "subtitle": "추출·청킹·맥락 + parent-child로 검색 품질 가르기",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-8-04-preprocessing"
+  },
+  {
+    "id": "part-8-05-dify-chatbot",
+    "tier": "part-8",
+    "tier_label": "Part 8. RAG (BPTC 6회차)",
+    "title": "Dify 챗봇 만들기",
+    "subtitle": "지식베이스(High Quality) → 앱 → Citation → 게시",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음 클립"
+    ],
+    "url": "/#part-8-05-dify-chatbot"
+  },
+  {
+    "id": "part-8-06-tuning-mydocs",
+    "tier": "part-8",
+    "tier_label": "Part 8. RAG (BPTC 6회차)",
+    "title": "개선·튜닝 + 내 부서 문서로 내 챗봇",
+    "subtitle": "TopK·Threshold 손잡이 + 내 문서로 내 업무 챗봇",
+    "headings": [
+      "이 클립에서 만드는 것",
+      "핵심 개념",
+      "시작 전 — 자료 셋업",
+      "진행 흐름",
+      "결과물",
+      "자주 막히는 포인트",
+      "다음"
+    ],
+    "url": "/#part-8-06-tuning-mydocs"
   },
   {
     "id": "ref-conversation-5steps",

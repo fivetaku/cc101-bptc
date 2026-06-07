@@ -6,7 +6,7 @@ next_clip_id: "part-4-03-kkirikkiri"
 
 # Part 4 / Clip 2: docs-guide로 Vercel 공식 문서 확인
 
-> 강의 영상: Part 4 / Clip 2 (~18분)
+> 세션: Part 4 / Clip 2 (~18분)
 > 만드는 것: Vercel 학습노트 + 클로드코드 시너지 아이디어
 
 ---
