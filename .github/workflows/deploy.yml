@@ -15,12 +15,17 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+# Node 20 액션 deprecation 대응: Node 20으로 도는 JS 액션을 Node 24 런타임으로 강제 실행
+# (configure-pages·upload-pages-artifact·deploy-pages·pnpm/action-setup은 아직 Node 24 메이저가 없어 이 플래그로 일괄 처리)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
@@ -28,9 +33,9 @@ jobs:
           version: 10
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 22
           cache: pnpm
 
       - name: Install dependencies
